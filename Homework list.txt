@@ -1,2 +1,15 @@
 Activity 1 - Tech Landscape: Search for job postings and find 2 jobs that appeal to you and why. 
 Activity 2 - Building a personal brand: submit initial resume for review. Draft cover letter, and write 500 word bio that includes career, education and hobbies you enjoy.
+
+I typed my first program into a TI-99 in fifth or sixth grade. The program had 2 commands, Print and Goto. I'm guessing you traveled a similar path. That was in the early 80's. At that point in my life I could not imagine how computers would influence my life. Later that decade I was given a Commodore 64 for Christmas and by that time I was writing meaning full, for a per-teen, game programms.
+Fast forward to 1989. I purchased my first x86 computer. It was better that the computers I used everyday at work where I was an Electronics Technician. I purchased it do do homework for Madison Area Technical College, where I attended nights. I was writing C as part of my curricumum for an Associates of Science in Electronics.
+I finished my Associates and took a job working for Motorola as a Electronics Technician. By that time I had already begun to take engineering classes. I was layed off and decided to join the Army to take advantage of the educational money the recruiter told me about. While serving 4 years I was able to take and complete many engineering classwork.
+After serving my country, I recieved a job offer to work in Austin, Texas, at a start up. SigmaTel was a fabless semiconductor company specalising in audio for PC's and laptops. It was during the time when Napster was suide for p2p filesharing MP3 music.
+I earned my Bachlors Degree in Electrical Engineering and was promoted from Technician in the Applications department. It was just then when a real coding career began. The complex series of tests that needed to be performed year around was being done  one at a time. The results recorded in our engineering notebooks and email out to our apps group. I realized that the test instrument could be controlled using Visual Basic. The Director of Software as also writing software to automate the data collection. I took over the effort early 2002. Each generation of the Test software I wrote added new features and reduced the number of test escapes and bugs in the test suite. I continued with that project for several years.
+I took several more engineering jobs. Each time the responsibilities included more software development.
+Today, I develope new features and maintain a data collection test system I call OASIS. OASIS is both the scriptable software and a test instument we call an ODAC. The ODAC reads 16 voltages, sets 4 voltages and controls 12 relays, making it a versitile addition to an electronics repair workbench.
+
+
+
+
+
