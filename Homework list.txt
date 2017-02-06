@@ -1,15 +1,120 @@
 Activity 1 - Tech Landscape: Search for job postings and find 2 jobs that appeal to you and why. 
 Activity 2 - Building a personal brand: submit initial resume for review. Draft cover letter, and write 500 word bio that includes career, education and hobbies you enjoy.
 
-I typed my first program into a TI-99 in fifth or sixth grade. The program had 2 commands, Print and Goto. I'm guessing you traveled a similar path. That was in the early 80's. At that point in my life I could not imagine how computers would influence my life. Later that decade I was given a Commodore 64 for Christmas and by that time I was writing meaning full, for a per-teen, game programms.
-Fast forward to 1989. I purchased my first x86 computer. It was better that the computers I used everyday at work where I was an Electronics Technician. I purchased it do do homework for Madison Area Technical College, where I attended nights. I was writing C as part of my curricumum for an Associates of Science in Electronics.
+
+Missing Homework due by next Friday 02.10.2017
+Activity 1: Search for job postings and find 2 jobs that appeal to you and why. 
+Activity 2: Building a personal brand: submit initial resume for review
+
+
+
+I typed my first program into a TI-99 in fifth or sixth grade. The program had 2 commands, Print and Goto. I'm guessing you traveled a similar path. That was in the early 80's. At that point in my life I could not imagine how computers would influence my life. Later that decade I was given a Commodore 64 for Christmas and by that time I was writing meaning full, for a per-teen, game programs.
+Fast forward to 1989. I purchased my first x86 computer. It was better that the computers I used everyday at work where I was an Electronics Technician. I purchased it do do homework for Madison Area Technical College, where I attended nights. I was writing C as part of my curriculum for an Associates of Science in Electronics.
 I finished my Associates and took a job working for Motorola as a Electronics Technician. By that time I had already begun to take engineering classes. I was layed off and decided to join the Army to take advantage of the educational money the recruiter told me about. While serving 4 years I was able to take and complete many engineering classwork.
-After serving my country, I recieved a job offer to work in Austin, Texas, at a start up. SigmaTel was a fabless semiconductor company specalising in audio for PC's and laptops. It was during the time when Napster was suide for p2p filesharing MP3 music.
-I earned my Bachlors Degree in Electrical Engineering and was promoted from Technician in the Applications department. It was just then when a real coding career began. The complex series of tests that needed to be performed year around was being done  one at a time. The results recorded in our engineering notebooks and email out to our apps group. I realized that the test instrument could be controlled using Visual Basic. The Director of Software as also writing software to automate the data collection. I took over the effort early 2002. Each generation of the Test software I wrote added new features and reduced the number of test escapes and bugs in the test suite. I continued with that project for several years.
+After serving my country, I received a job offer to work in Austin, Texas, at a start up. SigmaTel was a fabless semiconductor company specializing in audio for PC's and laptops. It was during the time when Napster was suede for p2p file-sharing MP3 music.
+I earned my Bachelors Degree in Electrical Engineering and was promoted from Technician in the Applications department. It was just then when a real coding career began. The complex series of tests that needed to be performed year around was being done  one at a time. The results recorded in our engineering notebooks and email out to our apps group. I realized that the test instrument could be controlled using Visual Basic. The Director of Software as also writing software to automate the data collection. I took over the effort early 2002. Each generation of the Test software I wrote added new features and reduced the number of test escapes and bugs in the test suite. I continued with that project for several years.
 I took several more engineering jobs. Each time the responsibilities included more software development.
-Today, I develope new features and maintain a data collection test system I call OASIS. OASIS is both the scriptable software and a test instument we call an ODAC. The ODAC reads 16 voltages, sets 4 voltages and controls 12 relays, making it a versitile addition to an electronics repair workbench.
+Today, I develop new features and maintain a data collection test system I call OASIS. OASIS is both the script-able software and a test instrument we call an ODAC. The ODAC reads 16 voltages, sets 4 voltages and controls 12 relays, making it a versatile addition to an electronics repair workbench.
 
 
 
+David Durkee
+1313 Sundrop Cove
+Round Rock, Texas 78665
+512-423-2202 – Cell phone
+AD5JO@yahoo.com
+LinkedIn - https://www.linkedin.com/profile/view?id=32609959&trk=hp-identity-name
+GitHub - https://github.com/ad5jo
+Bit Bucket - https://bitbucket.org/ddurkee0
+
+I’m applying for the position of Senior Software Developer/ Electrical Engineer.
+Many years of engineering discipline and software development experience, will allow me to quickly find my place. I will be a worthy addition to your team.
+My love for electronics and programming will quickly show my genuine enthusiasm. Ambition and desire drive me to design really cool gadgets when I’m not at work.
+
+Qualifications for Senior Software Engineer
+15+ Years Professional Experience Developing Code and Debugging, Primarily Automated Testing
+10+ Years Experience Providing Excellent Customer Support in the Internet and Semiconductor Industry
+10+ Years Electronics Design – Audio, Radio Frequency and Factory Automation
+10+ Years Test Plan Development, Data Collection and Reporting, Mixed Signal Characterization
+
+Languages
+2 Years, most recent full-time, Python 2.7		1 Years Assembly for PIC Microcontrollers
+10+ Years C++ and C 				6 Months, my current work project, C#
+9+ Years Visual Basic 6.0				Familiar with following Java
+
+Special Career Emphases
+Automated Characterization of Electronic Equipment and Mixed Signal Semiconductors
+User’s Interfaces Design
+Scripting Engine Development
+
+Relevant Skills
+Excellent Technical Report Communication and Documentation of Source Code/ API
+Team Player/ Team Builder, Motivated Mentor, Dedicated
+Learning new skills to add value to my work projects is important to me
+20+ Years Amateur Radio Extra License – AD5JO
+9 Years Experience using Micro soft Visual Studio
+3 Years using GIT for Code Revision Control
+4 Years Developing AVR Microcontroller code using Code Vision AVR Compiler
+3 Years occasionally working with Raspberry Pi at home
+3 Years Developing Code for Arduino Mega2560 professionally
+2 Years Experience using Red Hat Linux and Administrating SCO Linux (1999- 2001)
+
+Career History
+
+Electrical Engineer II, Software Developer				April 2009 – Present
+Odyssey Technical Solutions, Round Rock, TX http://www.odysseyrf.com/
+Designed Electronics for Data Acquisition, Developed all Software for Automation and User’s Interface
+
+Certification/Test Engineer – QA Department			December 2007 – April 2009
+Enflite, Georgetown, TX http://www.enflite.com/
+Wrote and Performed Test Plans, Developed EMI Automated Test software for DO-160 Standard
+
+Test Engineer							October 2006 – November 2007
+Kodiak Assembly Solutions LLLP, Austin, TX http://www.kodiakassembly.com/
+Developed Test Plans, Mentored Technicians, Debug Software, Troubleshoot production, Failure Analysis
+
+Design Engineer							April 2006 – December 2006
+Integrated Device Technologies, Austin, TX
+Wrote Automated Test Suite, Tech Support, Applications Engineering, Mixed Signal Characterization
+
+Principal Engineer- PC Audio Applications			January 2001 – April 2006
+SigmaTel Inc, Austin, TX  https://en.wikipedia.org/wiki/SigmaTel
+Senior Engineering Technician: Tech Support, Applications Engineering, Mixed Signal Characterization
+Promoted to Principle Engineer – Middle of 2001 (This Company no longer exists)
+
+Specialist- United States Army					April 1996 – April 2000
+Personnel Actions Clerk HHB 2-82 FA, 1CD, Fort Hood, TX 76544
+Battalion Head Quarters,S1 and S3 -Maintained and Processed, Awards, Legal, NCO Evaluations and Personal Actions (promotions) records for a Battalion of over 1000 soldiers
+Cannon Crew Member/ Driver – Entered as MOS 13B, Worked in the Training rooms of Service Battery and Headquarter Battery, and Battalion Head Quarters
+
+Process Electronics Technician- D Shift, Auto-Insert Machines	February 1995 – February 1996
+Motorola Lighting, Inc, Buffalo Grove, Illinois 60090
+Provided Repair and Preventative Maintenance in support of 24/7 Automated Production Line
+
+Engineering Technician- Started at the bottom and worked up	December 1989 – February 1995
+Electronic Technologies International Inc, Fort Atkinson, Wisconsin http://www.etimfg.com/contact.asp
+Support Manufacturing/ Production, Head of Calibration Laboratory, Developed Processes, Improve SPC
+
+References
+Odyssey Technical Solutions, Senior RF Engineer, Michael Pendley Sr 512-826-8084
+Silicon Labs, MCU Systems Engineer – Matt Williamson 512-464-9283 (mattrwilliamson@gmail.com)
+Tempo Semiconductor, President – Gozie Ifesina 512-731-3488
+Integrated Device Technologies, Director – Ajay Kanji 512-659-7267
+Flex Radio Systems, Senior Software Developer – Eric Wachsmann 512-535-4713 (eric@flexradio.com)
+Flex Radio Systems, President – Gerald Youngblood 512-535-4713 x202 (Gerald@flex-radio.co)
+Enflite Inc, QA Manager/Retired – Ken Arnold, 512-940-5778
+Enflite Inc, Sales – Jeff George, Tim Gundersen 512-868-3399
+Kodiak Assembly Solutions, President – John Kampfer 512-275-1700
+SigmaTel/ Freescale, Director – Len DiSanza 512-381-3723
+SigmaTel, Senior Electrical Engineer – Mike Doyle sdmadman@comcast.net
+SigmaTel, Computer Help Desk – John Auchterlonie 512-619-7100
+United States Army – DD-214 available, Honorable ETS
+
+Education
+Concordia College BSEE 2001 – Power Control Engineering
+Austin Community College 2015, 2003 – Mathematics Refresher Course, Computer Programming C++
+Madison Area Technical College – 1998 – 1994 Electronics Applied Science- Radio Communication
+Wyoming Technical Institute 1989 – Automotive Technology
+Fort Atkinson Senior High School 1988 – Electronics, Metal Shop and Automotive Repair
 
 
